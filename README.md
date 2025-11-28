@@ -41,7 +41,15 @@ El sistema permite:
 ---
 
 ## Estructura del proyecto
-
+/TallerArchivosPlanos
+│
+├── Main.java
+├── User.java
+├── UsersManager.java
+│
+├── Users.txt # Información de usuarios
+├── persons.txt # Información de personas
+└── log.txt # Registro de actividades (se genera automáticamente)
 
 ---
 
@@ -58,5 +66,5 @@ Asignatura: Programación
 Uso académico. Libre para estudiar y modificar.
 
 
-El archivo `persons.txt` utiliza el siguiente formato:
+
 
