@@ -1,0 +1,4 @@
+1,Juan,Perez,Medellin,3001234567,5000.00
+2,Laura,Calle,Bogota,3129876543,4500.00
+3,Camilo,Rincon,Cali,3011112233,7000.00
+4,pedro,alvarez,medellin,3506763753,100000

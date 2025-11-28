@@ -1,0 +1,4 @@
+andres,Clave123!,true
+camilog,Pass2025*,true
+laura,MiContra@321,false
+prueba,1234,true
